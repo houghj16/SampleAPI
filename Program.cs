@@ -7,7 +7,7 @@ namespace MathApplication
     {
         static void Main(string[] args)
         {
-            // Declare class from MathLibrary.dll
+            // Declare class from MathLibrary
             Class1 math = new Class1();
 
             // Declare variables and use methods from MathLibrary
