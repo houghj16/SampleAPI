@@ -21,7 +21,7 @@ namespace MathApplication
             // Print results on screen
             Console.WriteLine(substract);
             Console.WriteLine(multiply);
-            Console.WriteLine(devide);
+            Console.WriteLine(divide);
             Console.WriteLine(power);
 
             Console.ReadLine();
