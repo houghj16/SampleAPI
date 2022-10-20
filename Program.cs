@@ -13,7 +13,7 @@ namespace MathApplication
             // Declare variables and use methods from MathLibrary
             float substract = math.Substract(5, 2);
             float multiply = math.Multiply(5, 2);
-            float divide = math.Divide(5, 2);
+            float divide = math.Devide(5, 2);
             float power = math.Power(5);
 
             Console.WriteLine("This Application uses functions from MathLibrary.dll todo simple calculations");
