@@ -17,8 +17,6 @@ namespace MathApplication
             float divide = math.Divide(5, 2);
             float power = math.Power(5);
 
-            Console.WriteLine("This Application uses functions from MathLibrary.dll todo simple calculations");
-
             // Print results on screen
             Console.WriteLine(substract);
             Console.WriteLine(multiply);
