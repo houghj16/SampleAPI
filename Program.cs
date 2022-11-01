@@ -1,6 +1,5 @@
 ﻿using System;
 using MathLibrary; // Importing Math Library
-// Changes in 
 
 namespace MathApplication
 {
