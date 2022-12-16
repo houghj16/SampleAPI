@@ -25,4 +25,12 @@ namespace MathApplication
             Console.ReadLine();
         }
     }
+
+    class AnotherClass 
+    {
+        public void Print()
+        {
+            Console.WriteLine("hello");
+        }
+    }
 }
