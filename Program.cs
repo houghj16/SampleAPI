@@ -33,4 +33,19 @@ namespace MathApplication
             Console.WriteLine("hello");
         }
     }
+
+    class AndAnotherClass
+    {
+        public void Print()
+        {
+            // Pull Request
+            Console.WriteLine("hello");
+
+            // Bug fix
+            Console.WriteLine("hello");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+        }
+    }
 }
