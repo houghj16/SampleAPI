@@ -40,6 +40,9 @@ namespace MathApplication
         {
             // Pull Request
             Console.WriteLine("hello");
+
+            // Bug fix
+            Console.WriteLine("hello");
         }
     }
 }
