@@ -44,6 +44,7 @@ namespace MathApplication
             // Bug fix
             Console.WriteLine("hello");
             Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
         }
     }
 }
