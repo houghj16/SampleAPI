@@ -43,6 +43,10 @@ namespace MathApplication
             Console.WriteLine("wow!");
             Console.WriteLine("wow!");
             Console.WriteLine("wow!");
+            Console.WriteLine("hello");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
         }
     }
 }
