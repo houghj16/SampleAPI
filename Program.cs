@@ -47,6 +47,8 @@ namespace MathApplication
             Console.WriteLine("wow!");
             Console.WriteLine("wow!");
             Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
         }
     }
 }
