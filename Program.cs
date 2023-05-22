@@ -28,4 +28,30 @@ namespace MathApplication
             Console.ReadLine();
         }
     }
+
+    class AnotherClass 
+    {
+        public void Print()
+        {
+            Console.WriteLine("hello");
+        }
+    }
+
+    class AndAnotherClass
+    {
+        public void Print()
+        {
+            // Pull Request
+            Console.WriteLine("hello");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("hello");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!"); 
+        }
+    }
 }
