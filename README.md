@@ -12,4 +12,4 @@ The code is divided into individual repositories.
 
 [SampleLibrary](https://github.com/houghj16/SampleLibrary) | Contains some sample code to define a math library
 
-To try out the scenario, download and extract [this zip]()
+To try out the scenario, download and extract [this zip](/SampleWebApp.zip)

@@ -1,6 +1,5 @@
 ﻿using System;
 using MathLibrary; // Importing Math Library
-// Changes in 
 
 namespace MathApplication
 {
@@ -14,10 +13,8 @@ namespace MathApplication
             // Declare variables and use methods from MathLibrary
             float substract = math.Substract(5, 2);
             float multiply = math.Multiply(5, 2);
-            float divide = math.Divide(5, 2);
+            float divide = math.Devide(5, 2);
             float power = math.Power(5);
-
-            Console.WriteLine("This Application uses functions from MathLibrary.dll todo simple calculations");
 
             // Print results on screen
             Console.WriteLine(substract);
@@ -26,6 +23,32 @@ namespace MathApplication
             Console.WriteLine(power);
 
             Console.ReadLine();
+        }
+    }
+
+    class AnotherClass 
+    {
+        public void Print()
+        {
+            Console.WriteLine("hello");
+        }
+    }
+
+    class AndAnotherClass
+    {
+        public void Print()
+        {
+            // Pull Request
+            Console.WriteLine("hello");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("hello");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
+            Console.WriteLine("wow!");
         }
     }
 }
