@@ -12,7 +12,7 @@ namespace MathApplication
             Class1 math = new Class1();
 
             // Declare variables and use methods from MathLibrary
-            float substract = math.Substract(5, 2);
+            float substract = math.Subtract(5, 2);
             float multiply = math.Multiply(5, 2);
             float divide = math.Divide(5, 2);
             float power = math.Power(5);
